@@ -7,4 +7,4 @@ This project was made for the purpose of practicing using HTML, CSS, JavaScript,
 Feel free to use it, improve it, or just check it out. 
 I hope you like it.
 
-Author: Angel Mariscurrena.
+Author: Angel Mariscurrena c:
